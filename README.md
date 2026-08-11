@@ -159,17 +159,6 @@ Open browser → http://localhost:3000
 
 ---
 
-## 👥 Team Members
-
-- Rishi Gupta – Frontend & GitHub  
-- Sakshi Shinde – Backend  
-- Banu Priya B – Database & Backend  
-- Krithiga Yogasri – Frontend  
-- Priyanka Manjarekar – Frontend  
-- Bhavitra S – Backend & Deployment  
-
----
-
 ## 🧠 AI Chatbot Overview
 
 The chatbot is powered by an LLM API (Groq) and works as follows:
