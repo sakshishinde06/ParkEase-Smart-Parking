@@ -77,7 +77,7 @@ Follow the steps below to run the project locally.
 
 ## 🔽 1. Clone the Repository
 
-git clone https://github.com/Rishi-codess/ParkEase.git
+git clone https://github.com/sakshishinde06/ParkEase-Smart-Parking
 cd parkease
 
 
